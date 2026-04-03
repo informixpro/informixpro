@@ -1,6 +1,6 @@
-## Frontend web developer
+# Frontend web developer
 
-7+ years of working experience as frontend developer. I’m familiar with the most popular technologies required to create a modern website. Interesting in upcoming web technologies, usability and good design principles.
+10 years of experience in building large-scale modern web applications. Experienced in TypeScript, SSR, performance optimization, reusable component systems, API integration and frontend architecture. Strong focus on clean UI implementation, maintainability and business-oriented product delivery
 
 Have a look at my [portfolio](https://informix.pro)
 
